@@ -277,6 +277,7 @@ This is the short roadmap preview. See the full roadmap in [ROADMAP.md](ROADMAP.
 ## Community & Plugins
 
 Find Plugins and more at [awesome-paperclip](https://github.com/gsxdsm/awesome-paperclip)
+Explore the desktop office visualization app: [Paperclip Office](https://github.com/trandangtrungduc/paperclip-office)
 
 ## Telemetry
 
